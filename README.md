@@ -1,4 +1,7 @@
-### Hi there 👋
+
+
+- 🔭 I’m currently pursuing Ph.D. in Computer Science at IIT Jodhpur.
+- 
 
 <!--
 **nandini211995/nandini211995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
