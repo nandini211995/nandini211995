@@ -7,7 +7,7 @@ My technology stack involves python,MATLAB,PyTorch,Tensorflow,Keras,OpenCv,LaTex
 - 💻 I’m currently working on my coding and analytical skills 
 - 🌱 I’m currently exploring Machine Learning and Artificial Intelligence and Data Science with the [Jovian](https://www.jovian.ai/)
 - 📫 How to reach me: nandinisaini021@gmail.com
-- 😄 Pronouns: Aspiring Data Scientist/She/Her/Hers
+- 😄 Pronouns: Aspiring Machine Learning Research Scientist/She/Her/Hers
 
 **Languages and Tools:** 
 
